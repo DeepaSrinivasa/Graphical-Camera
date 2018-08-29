@@ -1,8 +1,6 @@
 
 #include<stdlib.h>
-//#include "stdafx.h"
-//#include"stdafx.h"
-//#include<glut.h>
+
 #include<math.h>
 #define GL_PI 3.1415f
 GLint clicks=0;GLint flash=0,n;
